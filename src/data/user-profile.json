@@ -1,0 +1,19 @@
+{
+  "_id": "ats1999",
+  "pic": "https://res.cloudinary.com/practicaldev/image/fetch/s--nh8zSFgY--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/285604/94170c66-2590-4002-90e0-ec4dc94ed7b5.png",
+  "name": "Rahul kumar",
+  "profileTagLine": "Software engineer @MERN",
+  "location": "India",
+  "bio": "Inside your React project directory, install Chakra UI by running either of the following,Inside your React project directory, install Chakra UI by running either of the following.",
+  "skills": [
+    "nodejs",
+    "reactjs",
+    "java",
+    "c++"
+  ],
+  "socialProfiles": {
+    "Linkedin": "https://www.linkedin.com/in/rahul-kumar-36b05a189",
+    "Github": "https://github.com/ats1999",
+    "Website": "https://dsabyte.com"
+  }
+}
