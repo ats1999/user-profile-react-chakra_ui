@@ -5,8 +5,8 @@ import UserProfileEdit from './components/UserProfileEdit';
 export default function App() {
   return (
     <div>
-      <UserProfile data={userData} />
-      {/* <UserProfileEdit initialData={userData} /> */}
+      {/* <UserProfile data={userData} /> */}
+      <UserProfileEdit initialData={userData} />
     </div>
   );
 }
